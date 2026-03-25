@@ -17,5 +17,15 @@
         "path": "./themes/racdev theme-color-theme.json"
       }
     ]
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Rodolfo Alejandro Castro",
+    "email": "racdeveloper.contact@gmail.com",
+    "url": "https://www.linkedin.com/in/racdeveloper/"
+  },
+  "repository": {
+    "url": "https://github.com/rac-developer/racdev-theme",
+    "type": "git"
   }
 }
