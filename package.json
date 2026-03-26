@@ -3,6 +3,7 @@
   "displayName": "racdev-theme",
   "description": "theme dark",
   "version": "0.0.1",
+  "publisher": "racdevTheme",
   "engines": {
     "vscode": "^1.110.0"
   },
@@ -27,5 +28,6 @@
   "repository": {
     "url": "https://github.com/rac-developer/racdev-theme",
     "type": "git"
-  }
+  },
+  "license": "LICENSE.txt"
 }
